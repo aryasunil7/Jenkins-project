@@ -1,7 +1,8 @@
 #include<stdio.h>
+#include<hellomake.h>
 int main()
 	{	
 		printf("helllooo im sruthi");
-		printf("im trying out jenkins");
-		return 0;
+		myprint();
+		return;
 	}
