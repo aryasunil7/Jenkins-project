@@ -2,6 +2,6 @@
 #include<hellomake.h>
 void myprint(void)
 	{
-		printf("hellllooooo all \n");
+		printf("\nhellllooooo all \n");
 		return;
 	}	
